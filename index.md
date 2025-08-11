@@ -48,7 +48,7 @@ I previously obtained my bachelor's degree in computer engineering from the Univ
   <em><b>Knowledge Boosting: Model Collaboration During Low-Latency Inference</b></em>
   <span class="authors">
     <b>Vidya Srinivas</b>, Malek Itani, Tuochao Chen, Sefik Emre Eskimez, Takuya Yoshioka, Shyamnath Gollakota<br>
-    <b>TL;DR</b> Allowing models on tiny devices to recieve time-delayed hints from larger off-device modles but still output in real time.
+    <b>TL;DR</b> Allowing models on tiny devices to recieve time-delayed hints from larger off-device models but still output in real time.
   </span>
   <div class="paper-links">
     <a class="btn" href="https://arxiv.org/abs/2407.11055" target="_blank">Paper</a>
