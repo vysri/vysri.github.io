@@ -1,0 +1,72 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.paper-entry {
+    margin-bottom: 1.5em;
+    margin-right: 2em;
+    font-family: Arial, sans-serif;
+    background-color: #e4e8eb;
+    border-radius: 6px;
+    padding: 0.5em 1em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    position: relative; /* Needed for absolute positioning inside */
+}
+  
+  .paper-entry em {
+    font-size: 0.85em;
+    display: inline-block;
+    margin-left: 0.5em;
+    vertical-align: middle;
+  }
+  
+  .paper-entry img {
+    vertical-align: middle;
+  }
+  
+  .paper-entry .authors {
+    font-size: 0.8em;
+    color: #555;
+    margin-top: 0.4em;
+    margin-left: 2em;
+    display: block;
+  }
+  
+  .paper-links {
+    margin-top: 0.5em;
+    margin-left: 1.5em;
+  }
+  
+  .paper-links .btn {
+    display: inline-block;
+    padding: 3px 6px;
+    margin-right: 8px;
+    background-color: #007acc;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.7em;
+    transition: background-color 0.3s ease;
+  }
+  
+  .paper-links .btn:hover {
+    background-color: #005fa3;
+  }
+  
+  .conference-label {
+    position: absolute;
+    bottom: 0.5em;
+    right: 1em;
+    background-color: #444;
+    color: #fff;
+    font-size: 0.7em;
+    padding: 3px 8px;
+    border-radius: 4px;
+    opacity: 0.85;
+  }
