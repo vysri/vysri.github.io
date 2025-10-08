@@ -119,8 +119,9 @@ author:
   location         : "Seattle, WA"
   email            :
   links:
-    - label: "vysri[at]cs.washington.edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vysri@cs.washington.edu"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar icon-pad-right"
       url: "https://scholar.google.com/citations?user=sAw_FtMAAAAJ&hl=en"

@@ -11,6 +11,8 @@ My research interests lie at the intersection of human-computer interaction, sys
 
 I previously obtained my bachelor's degree in computer engineering from the University of Michigan ECE, where I was fortunate to work with [Prof. Robert Dick](https://robertdick.org/) on embedded systems and resource-constrained ML.
 
+Contact me at vysri[at]cs.washington.edu!
+
 🚧 This website is under construction. 🚧
 {: .notice}
 
