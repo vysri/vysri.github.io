@@ -20,9 +20,13 @@ Contact me at vysri [at] cs.washington.edu!
 
 <div class="news-scroll" markdown="1">
 
+- **03/26:** Honored to be a recipient of the CIFAR Next Gen Trainee Fellowship!
+
+- **08/26:** Back at Google, this time on the XR & Devices team. Stay tuned for exciting things!
+
 - **05/25:** Our paper _"Substance over Style: Evaluating Proactive Conversational Coaching Agents"_ was accepted to **ACL 2025 Main Track**! Poster presentation in Vienna, Austria.
 
-- **01/25:** Honored to receive the [NCWIT AiC Collegiate Award](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients) for my research on human-centered intelligent systems!
+- **01/25:** Received the [NCWIT AiC Collegiate Award](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients) for my research on human-centered intelligent systems!
 
 - **10/24:** Won the [Madrona Prize](https://www.madrona.com/madrona-prize-2024/) Runner Up for my work on _Knowledge Boosting during Low-Latency Inference_!
 
