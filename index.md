@@ -22,7 +22,7 @@ Contact me at vysri [at] cs.washington.edu!
 
 - **03/26:** Honored to be a recipient of the CIFAR Next Gen Trainee Fellowship!
 
-- **08/26:** Back at Google, this time on the XR & Devices team. Stay tuned for exciting things!
+- **08/25:** Back at Google, this time on the XR & Devices team. Stay tuned for exciting things!
 
 - **05/25:** Our paper _"Substance over Style: Evaluating Proactive Conversational Coaching Agents"_ was accepted to **ACL 2025 Main Track**! Poster presentation in Vienna, Austria.
 
