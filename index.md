@@ -7,14 +7,13 @@ title: "About Me"
 
 <div class="bio-column" markdown="1">
 
-Hello! I am a PhD student at the University of Washington advised by [Prof. Shwetak Patel](https://www.cs.washington.edu/people/faculty/shwetak-patel/) as a part of the [Ubicomp Lab](https://ubicomplab.cs.washington.edu/).
+Hello! I'm a PhD student at the University of Washington in the [Ubicomp Lab](https://ubicomplab.cs.washington.edu/) advised by [Prof. Shwetak Patel](https://www.cs.washington.edu/people/faculty/shwetak-patel/).
 
-My research interests lie at the intersection of human-computer interaction, systems, and intelligence, with primary application areas being **speech/conversational AI** and **AI for health**.
+I work on a lot of different things, but currently have a focus on **conversational & voice AI systems** for different applications. I develop techniques to either (1) run models on-device or (2) split models across devices to create responsive and intelligent conversational AI. The other side of my work looks at how conversational AI systems can gather better context from users in real-life contexts where answers are often incomplete or need further investigation.
 
-I previously obtained my bachelor's degree in computer engineering from the University of Michigan ECE, where I was fortunate to work with [Prof. Robert Dick](https://robertdick.org/) on embedded systems and resource-constrained ML.
+I was previously at the University of Michigan ECE, where I worked with [Prof. Robert Dick](https://robertdick.org/) on embedded systems and resource-constrained ML. I also worked on computer architecture for a while, both at Michigan and at SambaNova Systems.
 
-Contact me at vysri [at] cs [dot] washington [dot] edu!
-
+Please reach out at vysri [at] cs [dot] washington [dot] edu if you'd like to chat about research, interesting ideas, or anything else!
 <!-- 🚧 This website is under construction. 🚧
 {: .notice} -->
 
