@@ -2,4 +2,10 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+{% if page.private %}
+<meta name="robots" content="noindex, nofollow, noarchive">
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<style>.page__content { font-size: 0.9em; }</style>
+{% endif %}
+
 <!-- end custom head snippets -->

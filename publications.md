@@ -10,6 +10,30 @@ title: "Selected Publications"
 
 <!-- Papers -->
 
+<div class="paper-entry paper-entry--compact">
+  <div class="paper-thumbnail">
+    <a href="https://arxiv.org/abs/2508.20148" target="_blank">
+      <img src="/assets/images/the-anatomy-of-a-pha-thumbnail.png" alt="Personal Health Agent thumbnail" loading="lazy">
+    </a>
+  </div>
+  <div class="paper-content">
+    <div class="paper-title">
+      <b>The Anatomy of a Personal Health Agent</b>
+    </div>
+    <div class="paper-authors">A.A. Heydari<sup>†</sup>, K. Gu<sup>†</sup>, <span class="author-highlight">V. Srinivas</span><sup>†</sup>, H. Yu, Z. Zhang, Y. Zhang, A. Paruchuri, Q. He, et al.</div>
+    <div class="paper-note"><sup>†</sup>Co-primary authors</div>
+    <span class="tldr">An agentic framework for a conversational personal health agent that can understand wearable data, provide coaching, and look through personal health records.</span>
+    <div class="paper-footer">
+      <div class="paper-links">
+        <a class="btn" href="https://arxiv.org/abs/2508.20148" target="_blank">📄 Paper</a>
+        <a class="btn" href="https://research.google/blog/the-anatomy-of-a-personal-health-agent/" target="_blank"><img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" alt="Google" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 4px;"> Blog Post</a>
+        <a class="btn" href="https://github.com/Google-Health/consumer-health-research/tree/main/personal_health_agent" target="_blank">💻 Code</a>
+      </div>
+      <span class="conference-label">Nature, 2026</span>
+    </div>
+  </div>
+</div>
+
 <div class="paper-entry">
   <div class="paper-thumbnail">
     <a href="https://arxiv.org/abs/2511.07397" target="_blank">
@@ -35,29 +59,6 @@ title: "Selected Publications"
   </div>
 </div>
 
-<div class="paper-entry paper-entry--compact">
-  <div class="paper-thumbnail">
-    <a href="https://arxiv.org/abs/2508.20148" target="_blank">
-      <img src="/assets/images/the-anatomy-of-a-pha-thumbnail.png" alt="Personal Health Agent thumbnail" loading="lazy">
-    </a>
-  </div>
-  <div class="paper-content">
-    <div class="paper-title">
-      <b>The Anatomy of a Personal Health Agent</b>
-    </div>
-    <div class="paper-authors">A.A. Heydari<sup>†</sup>, K. Gu<sup>†</sup>, <span class="author-highlight">V. Srinivas</span><sup>†</sup>, H. Yu, Z. Zhang, Y. Zhang, A. Paruchuri, Q. He, et al.</div>
-    <div class="paper-note"><sup>†</sup>Co-primary authors</div>
-    <span class="tldr">An agentic framework for a conversational personal health agent that can understand wearable data, provide coaching, and look through personal health records.</span>
-    <div class="paper-footer">
-      <div class="paper-links">
-        <a class="btn" href="https://arxiv.org/abs/2508.20148" target="_blank">📄 Paper</a>
-        <a class="btn" href="https://research.google/blog/the-anatomy-of-a-personal-health-agent/" target="_blank"><img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" alt="Google" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 4px;"> Blog Post</a>
-        <a class="btn" href="https://github.com/Google-Health/consumer-health-research/tree/main/personal_health_agent" target="_blank">💻 Code</a>
-      </div>
-      <span class="conference-label">Nature, 2026</span>
-    </div>
-  </div>
-</div>
 
 <div class="paper-entry">
   <div class="paper-thumbnail">
