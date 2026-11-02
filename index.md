@@ -26,6 +26,12 @@ Please reach out at vysri [at] cs [dot] washington [dot] edu if you'd like to ch
 <div class="news-scroll">
 
 <div class="news-entry">
+  <span class="news-emoji">🤗</span>
+  <span class="news-date">10/26</span>
+  <span class="news-text">Released a live demo of <em>Thinking while Speaking</em> in collaboration with <strong>HuggingFace</strong>!</span>
+</div>
+
+<div class="news-entry">
   <span class="news-emoji">📄</span>
   <span class="news-date">10/26</span>
   <span class="news-text"><em>The Anatomy of a Personal Health Agent</em> was accepted to <strong>Nature</strong>!</span>
@@ -65,7 +71,7 @@ Please reach out at vysri [at] cs [dot] washington [dot] edu if you'd like to ch
 <div class="news-entry">
   <span class="news-emoji">🏆</span>
   <span class="news-date">10/24</span>
-  <span class="news-text">Won the <a href="https://www.madrona.com/madrona-prize-2024/">Madrona Prize</a> Runner Up for my work on <em>Knowledge Boosting during Low-Latency Inference</em>!</span>
+  <span class="news-text">Won the <a href="https://www.madrona.com/madrona-prize-2024/">Madrona Prize</a> Runner Up for my work on <em>Knowledge Boosting for low-latency inference</em>!</span>
 </div>
 
 <div class="news-entry">
@@ -77,7 +83,7 @@ Please reach out at vysri [at] cs [dot] washington [dot] edu if you'd like to ch
 <div class="news-entry">
   <span class="news-emoji">📄</span>
   <span class="news-date">06/24</span>
-  <span class="news-text"><em>Knowledge Boosting: Model Collaboration During Low-Latency Inference</em> was accepted to <strong>Interspeech 2024</strong>!
+  <span class="news-text"><em>Knowledge Boosting</em> was accepted to <strong>Interspeech 2024</strong>!
   </span>
 </div>
 
